@@ -1,0 +1,15 @@
+*.iml
+*.log
+*.fdb_latexmk
+*.fls
+*.bbl
+*.blg
+*.aux
+*.tex~
+*.toc
+*.synctex.gz
+*.zip
+/WireWorld/lib/*
+/.idea/*
+*.class
+*.xml
